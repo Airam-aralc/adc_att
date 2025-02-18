@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo consolidar o uso do conversor analógico-digital, presentes nos pinos GPIO 26, GIO 27 e GPIO 28 no microcontrolador RP2040, explorando as funcionalidades da placa BitDogLab, com o periférico Joystick. A implementação inclui o controle de LEDs RGB com PWM e demonstração gráfica de um cursor no display OLED ssd130, além do uso de botões com debouncing via software para o acionamento dos LEDs RGB.
 
-Vídeo demonstrativo da atividade:
+Vídeo demonstrativo da atividade: https://www.dropbox.com/scl/fi/txqkg6rydm7d67jo3tzg7/Atividade-ADC.mp4?rlkey=s51pndag3lzk6oggksbxsmurp&st=cp4saw7k&dl=0
 
 🛠 Funcionalidades
 
