@@ -6,6 +6,8 @@ Este projeto tem como objetivo consolidar o uso do conversor analógico-digital,
 
 Vídeo demonstrativo da atividade: https://www.dropbox.com/scl/fi/txqkg6rydm7d67jo3tzg7/Atividade-ADC.mp4?rlkey=s51pndag3lzk6oggksbxsmurp&st=cp4saw7k&dl=0
 
+Código executável: adc.c
+
 🛠 Funcionalidades
 
 ✅ Controle dos LED RGB, com os pinos conectados às GPIOs (11, 12 e 13), via PWM.
