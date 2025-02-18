@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/adc_att.uf2'
+elf = 'build/adc_att.elf'
